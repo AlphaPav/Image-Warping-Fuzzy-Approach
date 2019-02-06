@@ -5,7 +5,7 @@
 
 - Made with Qt Creator 4.6.2 in C++. 
 
-- Video: https://youtu.be/rcIGJ6F8Tmw
+- Video: https://youtu.be/xchmhI5Wv1Y
 
 
 ## Demo
